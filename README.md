@@ -30,10 +30,11 @@ Instead of just looking at the surface, I spent time hands-on with the platform 
 
 1. **Educational Layer Is Missing Despite a Complex Product** - The platform includes AI voice demos and demo scheduling, but there are very few walkthrough videos, real call examples, or workflow showcases that help first-time users quickly understand how the product works in actual business use cases.
 
-  For non-technical users, it’s tough to visualize how this tech fits into their day-to-day operations without someone         holding their hand on a sales call.
+    For non-technical users, it’s tough to visualize how this tech fits into their day-to-day operations without someone         holding their hand on a sales call.
+   ![Demo Flow](./Assets/demo-flow.png)
 
-2. **Big metrics, but where is the proof?** - The website highlights strong numbers like “95% customer satisfaction in the industry service” but there are limited visible customer reviews, testimonials, or detailed case studies backing up these claims.
+3. **Big metrics, but where is the proof?** - The website highlights strong numbers like “95% customer satisfaction in the industry service” but there are limited visible customer reviews, testimonials, or detailed case studies backing up these claims.
 
-3. **The homepage assistant feels English-first, missing the "Built for Bharat" edge** - The homepage voice assistant mainly appears to support English interactions, even though the platform strongly promotes itself around multilingual communication and the “Built for Bharat” positioning.
+4. **The homepage assistant feels English-first, missing the "Built for Bharat" edge** - The homepage voice assistant mainly appears to support English interactions, even though the platform strongly promotes itself around multilingual communication and the “Built for Bharat” positioning.
 
   To truly own its "Built for Bharat" identity, the very first interaction a user has should put its impressive multilingual   capabilities front and center, rather than making regional languages feel like an afterthought.
