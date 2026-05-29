@@ -18,3 +18,10 @@ Instead of just looking at the surface, I spent time hands-on with the platform 
 
 5. **Multilingual Positioning**: Checking how well the platform highlights its "Built for Bharat" and multilingual capabilities.
 
+# Frameworks I used
+
+1. **SWOT Analysis** - Used to understand the product’s strengths, weaknesses, opportunities, and  spotting positioning gaps and growth opportunities.
+
+2.**Product-led Growth Analysis** - Looked at how easily users can explore and understand the product before talking to the sales team.
+
+3.**Funnel & Conversion Thinking** -  To look closely at the user journey, pinpointing exactly where people drop off during onboarding, trust-building, and booking a demo.
